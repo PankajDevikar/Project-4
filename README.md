@@ -34,7 +34,7 @@ Encoding: Categorical features were encoded using appropriate techniques.
 
 Model Training Several machine learning models were trained and evaluated:
 
-**Linear Regression
+Linear Regression
 
 Decision Tree
 
